@@ -1,0 +1,3 @@
+#DSCI_521_lab1_chan111j
+
+DSCI 521 lab1 for JONATHAN CHAN (chan111j)
