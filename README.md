@@ -9,7 +9,6 @@ Link to app (Hosted on Streamlit Community Cloud): https://jon-tk-chan-interview
 
 Note: ChatGPT explanations were generated using author's API key and stored as a static json file to reduce time and ensure functionality even when ChatGPT is inaccessible. Additional terms will be added by author and Cloud app will be updated as author sees fit.
 
-FOR AUTHOR: 
 
 To update explanations:
 
@@ -19,3 +18,8 @@ To update explanations:
 4. in web browser, access app at: http://localhost:8501
 
 (for Streamlit Community Cloud version, commit and push updated `explanations.json` to this repo, access the app using the above link, click on 'manage app' in bottom right corner, select 'reboot app')
+
+References:
+
+[Guide for using ChatGPT in Python - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-use-chatgpt-api-in-python/)
+[Streamlit](https://streamlit.io/)
