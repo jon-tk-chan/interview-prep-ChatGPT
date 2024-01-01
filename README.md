@@ -19,7 +19,8 @@ To update explanations:
 
 (for Streamlit Community Cloud version, commit and push updated `explanations.json` to this repo, access the app using the above link, click on 'manage app' in bottom right corner, select 'reboot app')
 
-References:
+#### References:
 
-[Guide for using ChatGPT in Python - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-use-chatgpt-api-in-python/)
-[Streamlit](https://streamlit.io/)
+- [Guide for using ChatGPT in Python - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-use-chatgpt-api-in-python/)
+
+- [Streamlit](https://streamlit.io/)
